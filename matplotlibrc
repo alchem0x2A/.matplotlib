@@ -514,5 +514,5 @@ savefig.transparent : True    # setting that controls whether figures are saved 
     # On Windows use the full path since convert
     # is also the name of a system tool.
 axes.autolimit_mode : data
-axes.xmargin : 0
-axes.ymargin : 0
+# axes.xmargin : 0.0
+# axes.ymargin : 0.0
