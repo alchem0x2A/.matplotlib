@@ -24,8 +24,8 @@ mathtext.default : it
 
 # AXES
 axes.linewidth      : 0.25
-axes.titlesize      : 7
-axes.labelsize      : 7
+axes.titlesize      : medium
+axes.labelsize      : medium
 axes.labelpad       : 6
 
 # TICKS
@@ -36,7 +36,7 @@ xtick.minor.width    : 0.25    # minor tick width in points
 xtick.major.pad      : 3.2      # distance to major tick label in points
 xtick.minor.pad      : 1.6      # distance to the minor tick label in points
 xtick.color          : k      # color of the tick labels
-xtick.labelsize      : 7  # fontsize of the tick labels
+xtick.labelsize      : medium  # fontsize of the tick labels
 xtick.direction      : out     # direction: in, out, or inout
 
 ytick.major.size     : 3.2      # major tick size in points
@@ -46,6 +46,6 @@ ytick.minor.width    : 0.25    # minor tick width in points
 ytick.major.pad      : 3.2    # distance to major tick label in points
 ytick.minor.pad      : 1.6      # distance to the minor tick label in points
 ytick.color          : k      # color of the tick labels
-ytick.labelsize      : 7 # fontsize of the tick labels
+ytick.labelsize      : medium # fontsize of the tick labels
 ytick.direction      : out
 

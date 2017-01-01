@@ -10,7 +10,7 @@ lines.markersize  : 6.5
 # Font setting
 font.family : sans-serif
 font.style  : normal
-font.size   : 7
+font.size   : 7.5
 font.weight : 500
 font.sans-serif : Helvetica, Arial
 
@@ -24,8 +24,8 @@ mathtext.default : it
 
 # AXES
 axes.linewidth      : 0.85
-axes.titlesize      : 7.5
-axes.labelsize      : 7.5
+axes.titlesize      : medium
+axes.labelsize      : medium
 axes.labelpad       : 7
 
 # TICKS
@@ -36,7 +36,7 @@ xtick.minor.width    : 0.85    # minor tick width in points
 xtick.major.pad      : 3.5      # distance to major tick label in points
 xtick.minor.pad      : 1.8      # distance to the minor tick label in points
 xtick.color          : k      # color of the tick labels
-xtick.labelsize      : 7.5  # fontsize of the tick labels
+xtick.labelsize      : medium  # fontsize of the tick labels
 xtick.direction      : out     # direction: in, out, or inout
 
 ytick.major.size     : 3.5      # major tick size in points
@@ -46,6 +46,6 @@ ytick.minor.width    : 0.85    # minor tick width in points
 ytick.major.pad      : 3.5    # distance to major tick label in points
 ytick.minor.pad      : 1.8      # distance to the minor tick label in points
 ytick.color          : k      # color of the tick labels
-ytick.labelsize      : 7.5 # fontsize of the tick labels
+ytick.labelsize      : medium # fontsize of the tick labels
 ytick.direction      : out
 
